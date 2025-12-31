@@ -290,10 +290,6 @@ make test
 - Specify compiler version and platform
 - Check existing issues before creating new ones
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - Inspired by JavaScript Promise/A+ specification
